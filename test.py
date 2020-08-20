@@ -1,22 +1,68 @@
-print("success 1")
+#####################################
+#            Test Case              #
+# ###################################  
+# Capture a keyword from a Google   #
+# Sheet and push it to Trends and   #
+# display trend data                #
+#####################################
+
+#####################################
+# Import PyGSheets                  #
+#####################################
+# This import allows us to interact #
+# with GSheets through Python       #
+#####################################
 import pygsheets
+
+#####################################
+# Import Pandas for Data Formatting #
+#####################################
 import pandas as pd 
-# authorization
+
+#####################################
+# GSheets Authorization             #
+#####################################
+
 gc = pygsheets.authorize(service_file='key/creds.json')
 
-# Create empty dataframe
+#####################################
+# Create empty dataframe for the    #
+# temp data                         #
+#####################################
+
 df = pd.DataFrame()
 
-# Create a column
-df['name'] = ['John', 'Steve', 'Sarah']
+#####################################
+# Create a column to hold the       #
+# temp data                         #
+#####################################
+# df['Name'] = ['Andrew', 'Ryan', 'Kris']
 
-print(df['name'])
+#####################################
+# Display the temp data to make     #
+# sure we're all good               #
+#####################################
+# print(df['Name'])
 
-# open the google spreadsheet (where test_sheet is the name of my sheet)
+#####################################
+# Open the GSheet destination file  #
+#####################################
+
 sh = gc.open('test_sheet')
 
-# select the first sheet
+#####################################
+# Select the first sheet            #
+#####################################
 wks = sh[0]
 
-# update the first sheet with df, starting at cell B2.
-wks.set_dataframe(df, (1,1))
+#####################################
+# Update the first sheet with df,   #
+# starting at cell B2.              #
+#####################################
+
+print(wks.cell((2,1)))
+
+#####################################
+# Success!                          #
+##################################### 
+# print("Success!")
