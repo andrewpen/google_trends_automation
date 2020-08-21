@@ -15,54 +15,45 @@
 import pygsheets
 
 #####################################
-# Import Pandas for Data Formatting #
+# Import Pandas for Data Formatting |
 #####################################
 import pandas as pd 
 
 #####################################
-# GSheets Authorization             #
+#  Initialize the PyTrends          |
+#####################################
+
+from pytrends.request import TrendReq 
+pytrend = TrendReq()
+
+#####################################
+# GSheets Authorization             |
 #####################################
 
 gc = pygsheets.authorize(service_file='key/creds.json')
 
 #####################################
-# Create empty dataframe for the    #
-# temp data                         #
-#####################################
-
-df = pd.DataFrame()
-
-#####################################
-# Create a column to hold the       #
-# temp data                         #
-#####################################
-# df['Name'] = ['Andrew', 'Ryan', 'Kris']
-
-#####################################
-# Display the temp data to make     #
-# sure we're all good               #
-#####################################
-# print(df['Name'])
-
-#####################################
-# Open the GSheet destination file  #
+# Open the GSheet destination file  |
 #####################################
 
 sh = gc.open('test_sheet')
 
 #####################################
-# Select the first sheet            #
+# Select the first sheet            |
 #####################################
+
 wks = sh[0]
+wks2 = sh[1]
 
 #####################################
-# Update the first sheet with df,   #
-# starting at cell B2.              #
+# Update the first sheet with df,   |
+# starting at cell B2.              |
 #####################################
+temp1 = wks.cell((2,1)).value
+print(temp1)
 
-print(wks.cell((2,1)))
-
-#####################################
-# Success!                          #
-##################################### 
-# print("Success!")
+pytrend.build_payload(kw_list=[temp1])
+df = pytrend.interest_by_region()
+df.head(10)
+#print (df.head(15))
+wks2.set_dataframe(df, (1,2))
