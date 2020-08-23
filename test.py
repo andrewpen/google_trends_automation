@@ -49,7 +49,7 @@ wks2 = sh[1]
 # Update the first sheet with df,   |
 # starting at cell B2.              |
 #####################################
-temp1 = wks.cell((2,1)).value
+temp1 = wks.cell((3,1)).value
 print(temp1)
 
 pytrend.build_payload(kw_list=[temp1])
