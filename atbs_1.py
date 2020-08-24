@@ -2,7 +2,12 @@ import random
 num = random.randint(1,10)
 print(num)
 
+def hello():
+    print('hello')
+    print('Andrew')
+    print('whats up')
 
+hello()
 
 
 # This program says hello and asks for my name
