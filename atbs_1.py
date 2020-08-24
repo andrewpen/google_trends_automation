@@ -1,3 +1,8 @@
+import random
+num = random.randint(1,10)
+print(num)
+
+
 # This program says hello and asks for my name
 
 print ('Hello World')
@@ -19,4 +24,3 @@ var = 0
 while var < 5:
     print('Hello World')
     var = var + 1
-    
