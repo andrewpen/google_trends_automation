@@ -12,6 +12,8 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - https://www.reddit.com/r/fantasyfootball/comments/cv88wl/attempting_to_use_python_for_my_fantasy_league/
     - https://old.reddit.com/r/fantasyfootball/comments/cptk3p/book_learn_to_code_with_fantasy_football_is_out/
     - https://www.google.com/search?q=espn+fantasy+football+api+python
+- Learning APIs
+    - automatically pull course names from my saved list 
 
 #Blueprints
 - Trying to formalize what the hell I want to do and turn it into an action plan
