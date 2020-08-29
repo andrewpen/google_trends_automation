@@ -13,7 +13,20 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - https://old.reddit.com/r/fantasyfootball/comments/cptk3p/book_learn_to_code_with_fantasy_football_is_out/
     - https://www.google.com/search?q=espn+fantasy+football+api+python
 - Learning APIs
-    - automatically pull course names from my saved list 
+    - automatically pull course names from my saved list
+    - display in spreadsheet 
+- Continuous notebook 
+    - as you add tags to sections, they get parsed and archived into separated notebooks 
+    - certain categories/tags require dates
+    - todo list or calendar will pull items from all notebooks that have dates 
+    - categorize everything I write 
+        - action oriented (date req)
+        - general information 
+        - person specific notes (name req)
+- Jira reoccurring search query
+    - dump response in a spreadsheet for a pivot table 
+    - do I need a spreadsheet?
+    - Can i use something else to display the pivot table? 
 
 #Blueprints
 - Trying to formalize what the hell I want to do and turn it into an action plan
