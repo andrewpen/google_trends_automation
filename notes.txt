@@ -19,6 +19,7 @@ Ok Braindump!
 - Go through my Meera books and just note out the Table of Contents. Will give me a good overview of each of the books and also tip me off where to dive in if I don't want to read the entire thing.
 - LinkedIn Learning for blogging, writing, thought organization
 - Learn Jenkins: an open source automation tool written in Java with plugins built for continuous integration purposes. It is used to build and test software projects continuously making it easier for developers to integrate changes to the project and making it easier for users to obtain a fresh build.
+- How do I organize all of my saved videos
 
 The One Hour Content plan
 - Section 1: Set yourself up for success
@@ -42,3 +43,132 @@ The One Hour Content plan
     - 13. Do's and Don'ts - Editorial calendar
     - 14. Tools to manage workflow
 - Conclusion + Next steps
+1HCP.ME/BONUS 
+
+Your First 100
+- Section 1:How your brand can pave the way
+    - 1. Why does brand matter
+    - 2. You're not for everybody
+    - 3. Carve a space for your stake
+    - 4. The know like trust formula
+- Section 2: How your content can pave the way
+    - 5. The content chain link 
+    - 6. Does your content demand attention?
+- Section 3: How email marketing can pave the way 
+    - 7 Interrupt with email 
+    - 8. Email dead ends and missed opportunities
+    - 9. Stack your value ladder
+    - 10. Emails that hook with 4C
+- Section 4: How yoru digital products pave the way
+    - 11. Give them what they want and what they will pay for 
+    - 12. How to create less buying resistance
+    - 13. Create a product ecosystem
+    - 14. Kill the crickets
+    - 15. Dealing with internal value meters
+- Section 5: How your selling practices pave the way
+    - 16. Dropping the offer bomb on an unsuspecting audience
+    - 17. Even a 3 part video series will fail if...
+    - 18. What's not found can't be bought
+    - 19. Don't apologize for selling but don't "sell"
+- Section 6: How making people your heroes paves the way
+    - 20. What you fail to do and say matters
+yourfirst100.com/bonus 
+
+But Im not an expert
+- Section 1: Picking your expert niche
+    - 1. Identifying your thing 
+- Section 2: Staking a claim to your expert status with knowledge
+    - 2. Create valuable content that positions you as an expert
+    - 2a. Minimum viable marketing formula 
+    - 3. Curate valuable content that positions you as an expert 
+- Section 3: Leverage the authority architecture
+    - 4. Borrow authority
+    - 5. Build authority 
+- Section 4: Marketing your expertise
+    - 6. Social proof and credibility fast track
+    - 6a. Minimum viable marketing formula part 2
+    - 7. Incorporating set and forget marketing systems and reusable marketing assets
+- Section 5: Building a marketing campaign
+    - 8. Create your marketing plan
+    - 9. How not to become another me-too expert
+nowanexpert.com/bonus
+
+300 Email Marketing Tips
+- Section 1: Tips to Brand Your Email List
+- Section 2: Tips to create a compelling lead magnet
+- Section 3: Tips to capture and convert traffic to subscribers
+- Section 4: Tips to create a brand boosting welcome email
+- Section 5: Tips to nurture new subscribers on auto with a welcome email series/nurture sequence
+- Section 6: Tips to fill your email editorial calendar
+- Section 7: Tips to monetize your email list 
+- Section 8: Tips to measure your email performance
+- Section 9: Tips to write emails that get clicks and opens
+- Section 10: Tips to create email systems 
+meera.email/300
+meera.email/challenge
+
+The Profitable Content System 
+- Section 1: Gravy - That which feeds the content system 
+    - 1. The stage x10 framework
+- Section 2: Meat & Potatoes - The heart  of the profitable system 
+    - 2. Transform your year into revenue generating campaigns
+    - 3. How to execute your revenue generating campaigns 
+    - 4. The 8 step profitable content system 
+    - 5. How to incorporate the profitable system into your workflow
+- Section 3: Content Maximizers
+    - 6. Minimum viable content repurposing
+    - 7. Snap recipe of content creation
+meera.tips/contentplaybook
+
+The Blog Startup
+    - 1. Nail your lucrative niche 
+    - 2. Identify your blogs core message
+    - 3. Your one reader 
+    - 4. Your brand in the online space 
+    - 5. Branding your site
+    - 6. 3 Must answer questions before you proceed
+    - 7. Why your blog over others?
+    - 8. Bare minimum business expenses
+    - 9. Your content strategy
+    - 10. Email: your one constant
+    - 11. Take your key website pages from meh to amazing
+    - 12. Launch plan
+    - 13. Revenue generation: creating a tailor made business model
+    - 14. Why some bloggers make the leap and others dont
+    List of things you shouldn't worry about in the first 6 months
+    List of things you should not do 
+    How to 10x your productivity
+theblogstartup.com/bonus/
+theblogstartup.com/workbook/
+
+Write and Grow Rich: Secrets of Successful Authors and Publishers
+- Section 1: Authors 
+    Adam Houge: Many streams create a river
+    Bryan Cohen: I pushed harder
+    Derek Murphy: Hone your craft until you're the best 
+    Matt Stone: Treat your book like your life's work 
+- Section 2: Communicators
+    Claire Diaz-Ortiz: I started to see what it meant to have a voice online 
+    Kirsten Oliphant: I release my inner simon cowell
+    Marc Guberti: The more I know, the more I can share
+    Summer Tannhauser: They want to hear from you 
+- Section 3: Marketers
+    Amy Collins: Do it anyway
+    Debbie Drum: The cream rises to the top 
+    Derek Doepker: Make your cause greater than your comfort
+    Susan Friedmann: Out pops your bonny baby book
+- Section 4: Teachers
+    Alinka Rutkowska: Like an army tank
+    Donna Kozik: Teach and the money will follow
+    Jyotsna Ramachandran: Too lazy to write
+    Kristen Joy Laidig: I feel what I want to do before I do it
+- Section 5: Trainers
+    Alexa Bigwarfe: Ditch the negative nancies
+    Daniel Hall: Strive for excellence, not perfection
+    Lise Cartwright: Done is better than perfect 
+    Sally Miller: By constantly researching, I feel closer to my readers
+- Section 6: Transformers
+    Caitlin Pyle: I pretty much ignore everyone else
+    Christine Kloser: What was missing was me 
+    Jason Ladd: Follow the meaning
+    Steve Alcorn: I try to make each word count
