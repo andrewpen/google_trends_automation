@@ -18,3 +18,27 @@ Ok Braindump!
 - Jupyter Notebooks? Is this something I need to get into? It looks like they are primarily used for Data Science and Python coding which seems cool but can it also be used for standard writing and thought organization?
 - Go through my Meera books and just note out the Table of Contents. Will give me a good overview of each of the books and also tip me off where to dive in if I don't want to read the entire thing.
 - LinkedIn Learning for blogging, writing, thought organization
+- Learn Jenkins: an open source automation tool written in Java with plugins built for continuous integration purposes. It is used to build and test software projects continuously making it easier for developers to integrate changes to the project and making it easier for users to obtain a fresh build.
+
+The One Hour Content plan
+- Section 1: Set yourself up for success
+    - 1. Define your content playing field
+    - 2. Find imaginary friend in your ideal reader
+    - 3. View your content as lynchpin in the reader journey
+    - 4. Position your brand and content online
+- Section 2: The one hour content plan
+- Section 3: Content Ideation - coming up with Ideas
+    - 5. How to build content around relevant topics
+    - 6. Content ideas to promote products and services
+    - 7. Goal and content
+    = 8. Write different post types to feed creativity
+- Section 4: Perfect content package
+    - 9. Inject content with powerful brand voice
+    - 10. Waht is the best content format?
+    - 11. Create smart blog posts that hook readers
+- Section 5: Content promotional pathways
+    - 12. The five different promo pathways
+- Section 6: How to manage the editorial workflow
+    - 13. Do's and Don'ts - Editorial calendar
+    - 14. Tools to manage workflow
+- Conclusion + Next steps
