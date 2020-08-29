@@ -12,3 +12,9 @@ One big grievance I have with Evernote is that I never go back and look at notes
 
 #Ramblings
 - I gots to write. I know that I can do a good job once I get going. I also know it takes a lot of willpower to get me going.
+
+
+Ok Braindump!
+- Jupyter Notebooks? Is this something I need to get into? It looks like they are primarily used for Data Science and Python coding which seems cool but can it also be used for standard writing and thought organization?
+- Go through my Meera books and just note out the Table of Contents. Will give me a good overview of each of the books and also tip me off where to dive in if I don't want to read the entire thing.
+- LinkedIn Learning for blogging, writing, thought organization
