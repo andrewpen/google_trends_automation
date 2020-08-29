@@ -1,0 +1,14 @@
+Using Github as a notebook? Why not.
+
+Let's try to keep a set of notes and thoughts. I want to get back to brain dumping but in a way that is structured and organized. 
+
+One big grievance I have with Evernote is that I never go back and look at notes.
+
+#Ideabook
+- Ideas for scripts/apps/projects
+
+#Blueprints
+- Trying to formalize what the hell I want to do and turn it into an action plan
+
+#Ramblings
+- I gots to write. I know that I can do a good job once I get going. I also know it takes a lot of willpower to get me going.
