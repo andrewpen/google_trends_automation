@@ -22,3 +22,5 @@ else:
     print('Nope. The number I was thinking of was ' + str(secretNumber))
 
 # Simple note for later - Python script that sends an automated text message
+
+# Another thought - Python scripting for chrome plugins/extensions
