@@ -13,6 +13,7 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - https://old.reddit.com/r/fantasyfootball/comments/cptk3p/book_learn_to_code_with_fantasy_football_is_out/
     - https://www.google.com/search?q=espn+fantasy+football+api+python
 - Learning APIs
+    - I might need to do this via Selenium
     - automatically pull course names from my saved list
     - display in spreadsheet 
 - Continuous notebook 
@@ -27,6 +28,11 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - dump response in a spreadsheet for a pivot table 
     - do I need a spreadsheet?
     - Can i use something else to display the pivot table? 
+- Google chrome plugin
+    - Should be able to build this with just JS and html
+- Rainmeter widgets
+    - Uses C++ and Lua?
+- Setup selenium
 
 #Blueprints
 - Trying to formalize what the hell I want to do and turn it into an action plan
