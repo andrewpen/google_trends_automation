@@ -7,6 +7,7 @@ One big grievance I have with Evernote is that I never go back and look at notes
 #Ideabook
 - Ideas for scripts/apps/projects
 - SMS Text someone automatically
+    - https://www.fullstackpython.com/blog/send-sms-text-messages-python.html#:~:text=Once%20you%20enter%20that%20code,message%20appear%20on%20your%20phone.
 - Fantasy football
     - https://stmorse.github.io/journal/espn-fantasy-v3.html
     - https://www.reddit.com/r/fantasyfootball/comments/cv88wl/attempting_to_use_python_for_my_fantasy_league/
@@ -16,10 +17,13 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - I might need to do this via Selenium
     - automatically pull course names from my saved list
     - display in spreadsheet 
+    - https://github.com/liranbg/linkedin-learning-downloader/blob/master/linkedin_learning.py
 - Continuous notebook 
     - as you add tags to sections, they get parsed and archived into separated notebooks 
     - certain categories/tags require dates
     - todo list or calendar will pull items from all notebooks that have dates 
+    - Python script that parses a text file
+        - do I need to use markdown?
     - categorize everything I write 
         - action oriented (date req)
         - general information 
@@ -34,13 +38,21 @@ One big grievance I have with Evernote is that I never go back and look at notes
     - Uses C++ and Lua?
 - Setup selenium
 - Learn Beautiful Soup module (python)
+- Jupyter Notebooks?
+- Autopost to Twitter? Twitter bot?
+    - https://opensource.com/article/17/8/raspberry-pi-twitter-bot
 
 #Blueprints
 - Trying to formalize what the hell I want to do and turn it into an action plan
 
 #Ramblings
 - I gots to write. I know that I can do a good job once I get going. I also know it takes a lot of willpower to get me going.
-
+- Things I was looking into this weekend
+    - Notating table of contents of books 
+    - Online learning list of saved videos 
+    - Online reading list of saved audio books
+    - Turn HTML into JSON 
+- I need to finish my Automate the Boring Stuff course 
 
 Ok Braindump!
 - Jupyter Notebooks? Is this something I need to get into? It looks like they are primarily used for Data Science and Python coding which seems cool but can it also be used for standard writing and thought organization?
