@@ -42,7 +42,24 @@ One big grievance I have with Evernote is that I never go back and look at notes
 - Evernote templates
     - automated note taking 
     - templates for every type of note
-    - automated aggregation of notes 
+    - automated aggregation of notes
+        - What gets measured gets done 
+        - What do I want next year to look like?                    Yearly Goals 
+            - What do I want next month to look like?               Monthly Goals 
+                - What do I want next week to look like?            Weekly Goals 
+                    - What do I want tomorrow to look like?         Daily Goals
+                        - Day in review
+                            - How did I feel at the start?
+                                - What is my ideal routine?
+                                - What are the things that contribute to it?
+                                - What are the things that detract from it?
+                                - How does what I eat and drink affect my day? 
+                                - How does exercise affect my day?
+                            - How did I feel at the end?            
+                    - What did yesterday look like?                 Daily Achievements
+                - What did last week look like?                     Weekly Achievements
+            - What did last month look like?                        Monthly Achievements 
+        - What did last year look like?                             Yearly Achievements
 - Autopost to Twitter? Twitter bot?
     - https://opensource.com/article/17/8/raspberry-pi-twitter-bot
 
