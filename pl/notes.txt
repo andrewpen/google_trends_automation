@@ -1,0 +1,425 @@
+Using Github as a notebook? Why not.
+
+Let's try to keep a set of notes and thoughts. I want to get back to brain dumping but in a way that is structured and organized. 
+
+One big grievance I have with Evernote is that I never go back and look at notes.
+
+#Ideabook
+- Ideas for scripts/apps/projects
+- SMS Text someone automatically
+    - https://www.fullstackpython.com/blog/send-sms-text-messages-python.html#:~:text=Once%20you%20enter%20that%20code,message%20appear%20on%20your%20phone.
+- Fantasy football
+    - https://stmorse.github.io/journal/espn-fantasy-v3.html
+    - https://www.reddit.com/r/fantasyfootball/comments/cv88wl/attempting_to_use_python_for_my_fantasy_league/
+    - https://old.reddit.com/r/fantasyfootball/comments/cptk3p/book_learn_to_code_with_fantasy_football_is_out/
+    - https://www.google.com/search?q=espn+fantasy+football+api+python
+- Learning APIs
+    - I might need to do this via Selenium
+    - automatically pull course names from my saved list
+    - display in spreadsheet 
+    - https://github.com/liranbg/linkedin-learning-downloader/blob/master/linkedin_learning.py
+- Continuous notebook 
+    - as you add tags to sections, they get parsed and archived into separated notebooks 
+    - certain categories/tags require dates
+    - todo list or calendar will pull items from all notebooks that have dates 
+    - Python script that parses a text file
+        - do I need to use markdown?
+    - categorize everything I write 
+        - action oriented (date req)
+        - general information 
+        - person specific notes (name req)
+- Jira reoccurring search query
+    - dump response in a spreadsheet for a pivot table 
+    - do I need a spreadsheet?
+    - Can i use something else to display the pivot table? 
+- Google chrome plugin
+    - Should be able to build this with just JS and html
+- Rainmeter widgets
+    - Uses C++ and Lua?
+- Setup selenium
+- Learn Beautiful Soup module (python)
+- Jupyter Notebooks?
+- Evernote templates
+    - automated note taking 
+    - templates for every type of note
+    - automated aggregation of notes
+        - What gets measured gets done 
+        - What do I want next year to look like?                    Yearly Goals 
+            - What do I want next month to look like?               Monthly Goals 
+                - What do I want next week to look like?            Weekly Goals 
+                    - What do I want tomorrow to look like?         Daily Goals
+                        - Day in review
+                            - How did I feel at the start?
+                                - What is my ideal routine?
+                                - What are the things that contribute to it?
+                                - What are the things that detract from it?
+                                - How does what I eat and drink affect my day? 
+                                - How does exercise affect my day?
+                            - How did I feel at the end?            
+                    - What did yesterday look like?                 Daily Achievements
+                - What did last week look like?                     Weekly Achievements
+            - What did last month look like?                        Monthly Achievements 
+        - What did last year look like?                             Yearly Achievements
+- Autopost to Twitter? Twitter bot?
+    - https://opensource.com/article/17/8/raspberry-pi-twitter-bot
+
+#Blueprints
+- Trying to formalize what the hell I want to do and turn it into an action plan
+
+#Ramblings
+- I gots to write. I know that I can do a good job once I get going. I also know it takes a lot of willpower to get me going.
+- Things I was looking into this weekend
+    - Notating table of contents of books 
+    - Online learning list of saved videos 
+    - Online reading list of saved audio books
+    - Turn HTML into JSON 
+- I need to finish my Automate the Boring Stuff course 
+
+Ok Braindump!
+- Jupyter Notebooks? Is this something I need to get into? It looks like they are primarily used for Data Science and Python coding which seems cool but can it also be used for standard writing and thought organization?
+- Go through my Meera books and just note out the Table of Contents. Will give me a good overview of each of the books and also tip me off where to dive in if I don't want to read the entire thing.
+- LinkedIn Learning for blogging, writing, thought organization
+- Learn Jenkins: an open source automation tool written in Java with plugins built for continuous integration purposes. It is used to build and test software projects continuously making it easier for developers to integrate changes to the project and making it easier for users to obtain a fresh build.
+- How do I organize all of my saved videos
+
+The One Hour Content plan
+- Section 1: Set yourself up for success
+    - 1. Define your content playing field
+    - 2. Find imaginary friend in your ideal reader
+    - 3. View your content as lynchpin in the reader journey
+    - 4. Position your brand and content online
+- Section 2: The one hour content plan
+- Section 3: Content Ideation - coming up with Ideas
+    - 5. How to build content around relevant topics
+    - 6. Content ideas to promote products and services
+    - 7. Goal and content
+    = 8. Write different post types to feed creativity
+- Section 4: Perfect content package
+    - 9. Inject content with powerful brand voice
+    - 10. Waht is the best content format?
+    - 11. Create smart blog posts that hook readers
+- Section 5: Content promotional pathways
+    - 12. The five different promo pathways
+- Section 6: How to manage the editorial workflow
+    - 13. Do's and Don'ts - Editorial calendar
+    - 14. Tools to manage workflow
+- Conclusion + Next steps
+1HCP.ME/BONUS 
+
+Your First 100
+- Section 1:How your brand can pave the way
+    - 1. Why does brand matter
+    - 2. You're not for everybody
+    - 3. Carve a space for your stake
+    - 4. The know like trust formula
+- Section 2: How your content can pave the way
+    - 5. The content chain link 
+    - 6. Does your content demand attention?
+- Section 3: How email marketing can pave the way 
+    - 7 Interrupt with email 
+    - 8. Email dead ends and missed opportunities
+    - 9. Stack your value ladder
+    - 10. Emails that hook with 4C
+- Section 4: How yoru digital products pave the way
+    - 11. Give them what they want and what they will pay for 
+    - 12. How to create less buying resistance
+    - 13. Create a product ecosystem
+    - 14. Kill the crickets
+    - 15. Dealing with internal value meters
+- Section 5: How your selling practices pave the way
+    - 16. Dropping the offer bomb on an unsuspecting audience
+    - 17. Even a 3 part video series will fail if...
+    - 18. What's not found can't be bought
+    - 19. Don't apologize for selling but don't "sell"
+- Section 6: How making people your heroes paves the way
+    - 20. What you fail to do and say matters
+yourfirst100.com/bonus 
+
+But Im not an expert
+- Section 1: Picking your expert niche
+    - 1. Identifying your thing 
+- Section 2: Staking a claim to your expert status with knowledge
+    - 2. Create valuable content that positions you as an expert
+    - 2a. Minimum viable marketing formula 
+    - 3. Curate valuable content that positions you as an expert 
+- Section 3: Leverage the authority architecture
+    - 4. Borrow authority
+    - 5. Build authority 
+- Section 4: Marketing your expertise
+    - 6. Social proof and credibility fast track
+    - 6a. Minimum viable marketing formula part 2
+    - 7. Incorporating set and forget marketing systems and reusable marketing assets
+- Section 5: Building a marketing campaign
+    - 8. Create your marketing plan
+    - 9. How not to become another me-too expert
+nowanexpert.com/bonus
+
+300 Email Marketing Tips
+- Section 1: Tips to Brand Your Email List
+- Section 2: Tips to create a compelling lead magnet
+- Section 3: Tips to capture and convert traffic to subscribers
+- Section 4: Tips to create a brand boosting welcome email
+- Section 5: Tips to nurture new subscribers on auto with a welcome email series/nurture sequence
+- Section 6: Tips to fill your email editorial calendar
+- Section 7: Tips to monetize your email list 
+- Section 8: Tips to measure your email performance
+- Section 9: Tips to write emails that get clicks and opens
+- Section 10: Tips to create email systems 
+meera.email/300
+meera.email/challenge
+
+The Profitable Content System 
+- Section 1: Gravy - That which feeds the content system 
+    - 1. The stage x10 framework
+- Section 2: Meat & Potatoes - The heart  of the profitable system 
+    - 2. Transform your year into revenue generating campaigns
+    - 3. How to execute your revenue generating campaigns 
+    - 4. The 8 step profitable content system 
+    - 5. How to incorporate the profitable system into your workflow
+- Section 3: Content Maximizers
+    - 6. Minimum viable content repurposing
+    - 7. Snap recipe of content creation
+meera.tips/contentplaybook
+
+The Blog Startup
+    - 1. Nail your lucrative niche 
+    - 2. Identify your blogs core message
+    - 3. Your one reader 
+    - 4. Your brand in the online space 
+    - 5. Branding your site
+    - 6. 3 Must answer questions before you proceed
+    - 7. Why your blog over others?
+    - 8. Bare minimum business expenses
+    - 9. Your content strategy
+    - 10. Email: your one constant
+    - 11. Take your key website pages from meh to amazing
+    - 12. Launch plan
+    - 13. Revenue generation: creating a tailor made business model
+    - 14. Why some bloggers make the leap and others dont
+    List of things you shouldn't worry about in the first 6 months
+    List of things you should not do 
+    How to 10x your productivity
+theblogstartup.com/bonus/
+theblogstartup.com/workbook/
+
+Write and Grow Rich: Secrets of Successful Authors and Publishers
+- Section 1: Authors 
+    Adam Houge: Many streams create a river
+    Bryan Cohen: I pushed harder
+    Derek Murphy: Hone your craft until you're the best 
+    Matt Stone: Treat your book like your life's work 
+- Section 2: Communicators
+    Claire Diaz-Ortiz: I started to see what it meant to have a voice online 
+    Kirsten Oliphant: I release my inner simon cowell
+    Marc Guberti: The more I know, the more I can share
+    Summer Tannhauser: They want to hear from you 
+- Section 3: Marketers
+    Amy Collins: Do it anyway
+    Debbie Drum: The cream rises to the top 
+    Derek Doepker: Make your cause greater than your comfort
+    Susan Friedmann: Out pops your bonny baby book
+- Section 4: Teachers
+    Alinka Rutkowska: Like an army tank
+    Donna Kozik: Teach and the money will follow
+    Jyotsna Ramachandran: Too lazy to write
+    Kristen Joy Laidig: I feel what I want to do before I do it
+- Section 5: Trainers
+    Alexa Bigwarfe: Ditch the negative nancies
+    Daniel Hall: Strive for excellence, not perfection
+    Lise Cartwright: Done is better than perfect 
+    Sally Miller: By constantly researching, I feel closer to my readers
+- Section 6: Transformers
+    Caitlin Pyle: I pretty much ignore everyone else
+    Christine Kloser: What was missing was me 
+    Jason Ladd: Follow the meaning
+    Steve Alcorn: I try to make each word count
+
+Click Millionaires
+- Section 1: Redesigning your lifestyle for success 
+    - 1. Work less, live more: becoming a click millionaire 
+    - 2. Passion vs profits: setting your own lifestyle goals
+    - 3. How to redesign your life and business 
+    - 4. Click millionaires lifestyle design exercises
+- Section 2: Click millionaires lifestyle business systems 
+    - 5. Lifestyle business design success principles
+    - 6. Strategies to position yourself as a niche expert online 
+    - 7. The amazing 10 step click millionaires expert program
+- Section 3: The best internet lifestyle businesses for you 
+    - 8. Digital publishing is the easiest way to start 
+    - 9. Publishing profitable email "noozles"
+    - 10. Blogging to the bank
+    - 11. Making money as a podcaster and internet radio star 
+    - 12. Your own web tv show
+    - 13. Social networking communities for fun and profitable
+    - 14. Easy digital download and information product sales
+- Section 4: If you don't have a product of your own 
+    - 15. Marketing and promoting other people's products 
+    - 16. Network Marketing: the truth about MLM
+    - 17. Fun flexible freelancing as a lifestyle design strategy
+    - 18. Copycat millionaires and billionaires
+- Section 5: How to find your niche on the internet 
+    - 19. Collect attention to build a profiatble niche audience
+    - 20. The business niche identification method
+    - 21. Testing customer demand before you waste your time
+- Section 6. Building your business and making money 
+    - 22. Click millionaires systems for production and operations
+    - 23. Easy content publishing Strategies
+    - 24. The secrets of online advertising
+- Section 7. Lifestyle lessons from the internet entrepreneurs
+    - 25. How to choose the best lifestyle business system for you
+    - 26. The 10 step action plan for redesigning your life
+    - 27 Conclusions: winning success strategies
+- Epilogue: Reinvestment strategy 
+
+The E-Myth Revisited 
+- Section 1: The E Myth and American Small business
+    - 1. The entrepreneurial myth 
+    - 2. The Entrepreneur the manager and the technician
+    - 3. Infancy: the technician's phase
+    - 4. Adolescence: getting some help
+    - 5. Beyond the comfort zone
+    - 6. Maturity and the entrepreneurial perspective
+- Section 2: The turn key revolution: a new view of business
+    - 7. The turn key revolution 
+    - 8. The franchise prototype
+    - 9. Working on your business, not in it
+- Section 3: Building a small business that works
+    - 10. The business development process
+    - 11. Your business development program 
+    - 12. Your primary aim 
+    - 13. Your strategic objective
+    - 14. Your organizational strategy 
+    - 15. Your management strategy 
+    - 16. Your people strategy 
+    - 17. Your marketing strategy 
+    - 18. Your systems strategy 
+    - 19. A letter to sarah 
+- Epilogue: Bringing the dream back - taking the first step 
+
+The Slight Edge
+- Section 1: How the slight edge works 
+    - 1. The beach bum and the millionaire 
+    - 2. The first ingredient 
+    - 3. The choice 
+    - 4. Master the mundane 
+    - 5. Slow down to go fast 
+    - 6. Don't fall for quantum leap 
+    - 7. The secret of happiness 
+    - 8. The ripple effect 
+    - 9. But you have to start with a penny
+- Section 2: Living the slight edge
+    - 10. Two life paths 
+    - 11. Mastering the slight edge 
+    - 12. Invest in yourself 
+    - 13. Learn from mentors
+    - 14. Use your slight edge allies 
+    - 15. Cultivate slight edge habits 
+    - 16. Three steps to your dreams 
+    - 17. Living the slight edge 
+    - 18. Where to go from here 
+- Life Transforming books 
+
+HBR Guide to getting the mentoring you need 
+- Section 1: What good mentoring looks like 
+    - 1. The relationship you need to get right
+    - 2. Mentoring in all its shapes and sizes
+- Section 2: Mapping out your development 
+    - 3. Reaching your potential
+    - 4. Making yourself indispensable 
+    - 5. Why you didn't get that promotion
+- Section 3: Growth and advancement
+    - 6. Finding the right mentors 
+    - 7. Defining your goals and expectations
+    - 8. Starting and maintaining relationships with mentors
+    - 9. How to get more from your mentors 
+    - 10. Employ a personal board of directors 
+    - 11. A smarter way to network 
+    - 12. Accelerate your development: tips for millenials
+    - 13. Mentoring for gen xers
+    - 14. Keep learning from your proteges
+
+Manage Your Day-to-Day
+- Section 1: Building a rock solid routine 
+    - 1. Laying the groundwork for an effective routine 
+    - 2. Harnessing the power of frequency 
+    - 3. Honeing your creative practice 
+    - 4. Building renewal into your workday
+    - 5. Making room for solitude 
+- Section 2: Finding focus in a distracted world
+    - 6. Scheduling time for creative thinking
+    - 7. Banishing multitasking from our repertoire
+    - 8. Understanding our compulsions
+    - 9. Learning to create amidst chaos
+    - 10. Tuning in to you
+- Section 3: Taming your tools 
+    - 11. Making email matter 
+    - 12. using social media mindfully 
+    - 13. Reconsidering constant connectivity  
+    - 14. Awakening to conscious computing 
+    - 15. Reclaiming our self respect 
+- Section 4: Sharpening your creative mind 
+    - 16. Creating for you, and you alone 
+    - 17. Training your mind to be ready for insight 
+    - 18. Tricking your brain into creativity 
+    - 19. Letting go of perfectionism 
+    - 20. Getting unstuck 
+
+The Long View: Career Strategies
+- Section 1: Principles and tools 
+    - 1. Executive summary the long view career method
+        - The problem
+        - Five things you need to know to build a career plan 
+        - Five things you need to do to bring it to life 
+        - The result 
+    - 2. The three big career stages 
+        - Stage one: start strong by taking on fuel 
+        - Stage two: reach high by focusing on your strengths
+        - Stage three: go far by passing the torch
+    - 3. Fuel 
+        - Fuel #1 Transportable skills
+        - Fuel #2 Meaningful experiences
+        - Fuel #3 Enduring relationships 
+        - Fuel summary 
+    - 4. The career math exercise 
+        - Start with career math 
+        - What does this career math mean?
+    - 5. Career inventory and ecosystem 
+        - Fuel #1 Transportable skills
+        - Fuel #2 Meaningful experiences 
+        - Fuel #3 Enduring relationships
+        - Annual career value size up 
+    - 6. Your personal time portfolio
+    - 7. Career path navigator
+        - The ROI of an MBA
+- Section 2: Tactics through the stages 
+    - 8. Stage one - Starting strong 
+        - Get in the game
+        - Stage one: starting strong summary 
+        - Connecting with mentors 
+    - 9. Stage two - Reaching high 
+        - Don't sell yourself short 
+        - From baryshnikov to boardroom
+        - Doors slammed, doors opened
+        - As a leader, what is your cruising altitude?
+        - Advice for a new leader on day one 
+        - What the experts look for in ceo candidates
+    - 10. Stage three - Going far 
+        - Work hard at work worth doing 
+        - From a company of 400,000 to a company of one 
+        - How will you invest in you?
+- Section 3: Careers and real life 
+    - 11. Careers and parenthood
+        - Coming back after an absence
+    - 12. Going global
+        - Oh the places you will go 
+        - Seeing the emerging world up close 
+    - 13. Overcoming adversity
+        - Staying true to you 
+        - Starting over before age thirty five 
+    - 14. The future of careers 
+        - Will I be replaced by a machine?
+        - Where and how will I find work in the future?
+        - How will I spend my time? 
+        - Will I outlast my money? 
+        - How will work make me happy?
+        - Paid jobs I've done in my life and what I learned 
