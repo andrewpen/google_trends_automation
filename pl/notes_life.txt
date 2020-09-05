@@ -1,0 +1,83 @@
+Using Github as a notebook? Why not.
+
+Let's try to keep a set of notes and thoughts. I want to get back to brain dumping but in a way that is structured and organized. 
+
+One big grievance I have with Evernote is that I never go back and look at notes.
+
+#Ideabook
+- Ideas for scripts/apps/projects
+- SMS Text someone automatically
+    - https://www.fullstackpython.com/blog/send-sms-text-messages-python.html#:~:text=Once%20you%20enter%20that%20code,message%20appear%20on%20your%20phone.
+- Fantasy football
+    - https://stmorse.github.io/journal/espn-fantasy-v3.html
+    - https://www.reddit.com/r/fantasyfootball/comments/cv88wl/attempting_to_use_python_for_my_fantasy_league/
+    - https://old.reddit.com/r/fantasyfootball/comments/cptk3p/book_learn_to_code_with_fantasy_football_is_out/
+    - https://www.google.com/search?q=espn+fantasy+football+api+python
+- Learning APIs
+    - I might need to do this via Selenium
+    - automatically pull course names from my saved list
+    - display in spreadsheet 
+    - https://github.com/liranbg/linkedin-learning-downloader/blob/master/linkedin_learning.py
+- Continuous notebook 
+    - as you add tags to sections, they get parsed and archived into separated notebooks 
+    - certain categories/tags require dates
+    - todo list or calendar will pull items from all notebooks that have dates 
+    - Python script that parses a text file
+        - do I need to use markdown?
+    - categorize everything I write 
+        - action oriented (date req)
+        - general information 
+        - person specific notes (name req)
+- Jira reoccurring search query
+    - dump response in a spreadsheet for a pivot table 
+    - do I need a spreadsheet?
+    - Can i use something else to display the pivot table? 
+- Google chrome plugin
+    - Should be able to build this with just JS and html
+- Rainmeter widgets
+    - Uses C++ and Lua?
+- Setup selenium
+- Learn Beautiful Soup module (python)
+- Jupyter Notebooks?
+- Evernote templates
+    - automated note taking 
+    - templates for every type of note
+    - automated aggregation of notes
+        - What gets measured gets done 
+        - What do I want next year to look like?                    Yearly Goals 
+            - What do I want next month to look like?               Monthly Goals 
+                - What do I want next week to look like?            Weekly Goals 
+                    - What do I want tomorrow to look like?         Daily Goals
+                        - Day in review
+                            - How did I feel at the start?
+                                - What is my ideal routine?
+                                - What are the things that contribute to it?
+                                - What are the things that detract from it?
+                                - How does what I eat and drink affect my day? 
+                                - How does exercise affect my day?
+                            - How did I feel at the end?            
+                    - What did yesterday look like?                 Daily Achievements
+                - What did last week look like?                     Weekly Achievements
+            - What did last month look like?                        Monthly Achievements 
+        - What did last year look like?                             Yearly Achievements
+- Autopost to Twitter? Twitter bot?
+    - https://opensource.com/article/17/8/raspberry-pi-twitter-bot
+
+#Blueprints
+- Trying to formalize what the hell I want to do and turn it into an action plan
+
+#Ramblings
+- I gots to write. I know that I can do a good job once I get going. I also know it takes a lot of willpower to get me going.
+- Things I was looking into this weekend
+    - Notating table of contents of books 
+    - Online learning list of saved videos 
+    - Online reading list of saved audio books
+    - Turn HTML into JSON 
+- I need to finish my Automate the Boring Stuff course 
+
+Ok Braindump!
+- Jupyter Notebooks? Is this something I need to get into? It looks like they are primarily used for Data Science and Python coding which seems cool but can it also be used for standard writing and thought organization?
+- Go through my Meera books and just note out the Table of Contents. Will give me a good overview of each of the books and also tip me off where to dive in if I don't want to read the entire thing.
+- LinkedIn Learning for blogging, writing, thought organization
+- Learn Jenkins: an open source automation tool written in Java with plugins built for continuous integration purposes. It is used to build and test software projects continuously making it easier for developers to integrate changes to the project and making it easier for users to obtain a fresh build.
+- How do I organize all of my saved videos
