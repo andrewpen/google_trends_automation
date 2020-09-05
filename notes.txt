@@ -39,6 +39,10 @@ One big grievance I have with Evernote is that I never go back and look at notes
 - Setup selenium
 - Learn Beautiful Soup module (python)
 - Jupyter Notebooks?
+- Evernote templates
+    - automated note taking 
+    - templates for every type of note
+    - automated aggregation of notes 
 - Autopost to Twitter? Twitter bot?
     - https://opensource.com/article/17/8/raspberry-pi-twitter-bot
 
